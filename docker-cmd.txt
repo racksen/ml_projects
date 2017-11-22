@@ -1,0 +1,1 @@
+docker run -d -p 8888:8888 -v C:\thiram\src:/home/jovyan/src jupyter/datascience-notebook start-notebook.sh --NotebookApp.token='' 
